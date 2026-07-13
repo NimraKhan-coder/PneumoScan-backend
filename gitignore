@@ -25,6 +25,10 @@ __pycache__/
 *.pkl
 *.onnx
 
+git add requirements.txt
+git commit -m "Fix tensorflow version for deployment"
+git push
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
