@@ -25,6 +25,10 @@ __pycache__/
 *.pkl
 *.onnx
 
+git add .
+git commit -m "Use fresh throwaway client for all Auth Admin calls to eliminate session pollution"
+git push
+
 git add requirements.txt
 git commit -m "Fix tensorflow version for deployment"
 git push
