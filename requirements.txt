@@ -11,4 +11,4 @@ supabase==2.9.1
 gdown
 email-validator
 requests==2.32.3
-
+reportlab==4.2.5
