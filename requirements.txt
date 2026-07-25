@@ -12,3 +12,4 @@ gdown
 email-validator
 requests==2.32.3
 reportlab==4.2.5
+stripe==11.1.1
